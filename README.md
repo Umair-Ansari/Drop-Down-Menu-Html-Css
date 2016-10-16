@@ -1,2 +1,9 @@
 # Drop Down Menu Html Css
-version (1.0.0)
+
+A simple html/css based responsive dropdown menu for mobile view 
+
+**Version 1.0.0**
+
+---
+
+## License and Copyright
