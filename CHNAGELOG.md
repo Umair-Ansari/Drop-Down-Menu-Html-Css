@@ -1,6 +1,6 @@
 # Change log
 
-##v1.0.1 - Oct. 16, 2016
+## v1.0.1 - Oct. 16, 2016
 
 **Added:**
 -Readme
@@ -9,7 +9,7 @@
 
 ---
 
-##v1.0.0 - Oct. 16, 2016
+## v1.0.0 - Oct. 16, 2016
 
 Initial relaease.
 
