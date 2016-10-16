@@ -3,9 +3,9 @@
 ## v1.0.1 - Oct. 16, 2016
 
 **Added:**
--Readme
--Change log
--License 
+- Readme
+- Change log
+- License 
 
 ---
 
@@ -14,6 +14,6 @@
 Initial relaease.
 
 **Implementation:**
--Index.html
--menu image
--style.css 
+- Index.html
+- menu image
+- style.css 
