@@ -8,4 +8,4 @@ A simple html/css based responsive dropdown menu for mobile view
 
 ## License and copyright
 
- © Umair Ansari
+&copy; Umair Ansari
